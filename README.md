@@ -1,6 +1,6 @@
-# 🎬 Movies dataset template
+# 💳  German Credit dataset template
 
-A simple Streamlit app showing movie data from [The Movie Database (TMDB)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). 
+A simple Streamlit app showing movie data from [The German Credit Dataset](https://www.kaggle.com/datasets/uciml/german-credit/data). 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movies-dataset-template.streamlit.app/)
 
